@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:03001C,30:0B0C2A,60:1B1B3A,100:2D1B69&height=220&section=header&text=Gabriel%20Castro&fontSize=58&fontColor=E0AAFF&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20React%20%C2%B7%20Node.js%20%C2%B7%20Java%20%C2%B7%20Python%20%C2%B7%20Cloud&descAlignY=60&descSize=15&descColor=C77DFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a4a2e,100:00ff88&height=200&section=header&text=Gabriel%20Castro&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%94%20React%20%C2%B7%20Node.js%20%C2%B7%20Java%20%C2%B7%20Python%20%C2%B7%20Cloud&descAlignY=58&descSize=15"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C77DFF&center=true&vCenter=true&width=700&lines=const+gabriel+%3D+new+FullStackDeveloper()%3B;%E2%9A%9B%EF%B8%8F+React+%7C+%F0%9F%9F%A2+Node.js+%7C+%E2%98%95+Java+%7C+%F0%9F%90%8D+Python;%E2%98%81%EF%B8%8F+AWS+%7C+%F0%9F%90%B3+Docker+%7C+%E2%9A%99%EF%B8%8F+Kubernetes;%F0%9F%A4%96+Agentes+IA+%7C+%F0%9F%94%81+n8n+%7C+%F0%9F%9B%A0%EF%B8%8F+CI%2FCD;%F0%9F%8E%93+Engenharia+de+Software+%E2%80%94+sempre+evoluindo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF88&center=true&vCenter=true&width=700&lines=const+gabriel+%3D+new+FullStackDeveloper()%3B;%E2%9A%9B%EF%B8%8F+React+%7C+%F0%9F%9F%A2+Node.js+%7C+%E2%98%95+Java+%7C+%F0%9F%90%8D+Python;%E2%98%81%EF%B8%8F+AWS+%7C+%F0%9F%90%B3+Docker+%7C+%E2%9A%99%EF%B8%8F+Kubernetes;%F0%9F%A4%96+Agentes+IA+%7C+%F0%9F%94%81+n8n+%7C+%F0%9F%9B%A0%EF%B8%8F+CI%2FCD;%F0%9F%8E%93+Engenharia+de+Software+%E2%80%94+sempre+evoluindo)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gabrielcastroIA&color=C77DFF&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/gabrielcastroIA?color=C77DFF&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/gabrielcastroIA)
-[![GitHub stars](https://img.shields.io/github/stars/gabrielcastroIA?color=C77DFF&style=for-the-badge&logo=github&label=STARS)](https://github.com/gabrielcastroIA)
+![Profile Views](https://komarev.com/ghpvc/?username=gabrielcastroIA&color=00ff88&style=for-the-badge&label=VISUALIZAÇÕES)
+[![GitHub followers](https://img.shields.io/github/followers/gabrielcastroIA?color=00ff88&style=for-the-badge&logo=github&label=SEGUIDORES)](https://github.com/gabrielcastroIA)
+[![GitHub stars](https://img.shields.io/github/stars/gabrielcastroIA?color=00ff88&style=for-the-badge&logo=github&label=STARS)](https://github.com/gabrielcastroIA)
 
 </div>
 
@@ -43,8 +43,6 @@ class GabrielCastro implements FullStackDeveloper {
     "Kubernetes avançado (CKA)",
     "Arquitetura de microsserviços",
   ];
-
-  softSkills = ["Code Review", "Documentação técnica", "Resolução de problemas"];
 
   contact(): string {
     return "github.com/gabrielcastroIA";
@@ -106,14 +104,14 @@ class GabrielCastro implements FullStackDeveloper {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcastroIA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=C77DFF&title_color=C77DFF&icon_color=E0AAFF&bg_color=03001C&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcastroIA&layout=compact&langs_count=8&theme=tokyonight&border_color=C77DFF&title_color=C77DFF&bg_color=03001C&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcastroIA&show_icons=true&theme=merko&include_all_commits=true&count_private=true&border_color=00ff88&title_color=00ff88&icon_color=00ff88&bg_color=0d1117&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcastroIA&layout=compact&langs_count=8&theme=merko&border_color=00ff88&title_color=00ff88&bg_color=0d1117&text_color=ffffff"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gabrielcastroIA&theme=dark&background=03001C&border=C77DFF&stroke=C77DFF&ring=C77DFF&fire=E0AAFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C77DFF&sideLabels=C77DFF&dates=888888" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=gabrielcastroIA&theme=dark&background=0D1117&border=00FF88&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF88&sideLabels=00FF88&dates=AAAAAA" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -153,7 +151,7 @@ ia_e_automacao:
 ## 🏆 Troféus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrielcastroIA&theme=discord&no-frame=true&margin-w=8&column=7&title=Stars,Commits,PullRequest,Reviews,Repositories,Followers,Issues"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gabrielcastroIA&theme=matrix&no-frame=true&margin-w=6&column=7"/>
 </div>
 
 ---
@@ -161,7 +159,7 @@ ia_e_automacao:
 ## 📈 Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielcastroIA&bg_color=03001C&color=C77DFF&line=C77DFF&point=E0AAFF&area=true&area_color=C77DFF22&hide_border=false&border_color=C77DFF" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielcastroIA&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8833&hide_border=false&border_color=00ff88" alt="Activity Graph"/>
 </div>
 
 ---
@@ -192,5 +190,5 @@ ia_e_automacao:
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B69,50:1B1B3A,100:03001C&height=130&section=footer&text=Open%20to%20work%20%F0%9F%9A%80&fontColor=C77DFF&fontSize=22&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:1a4a2e,100:0f2027&height=120&section=footer&text=Open%20to%20work%20%F0%9F%9A%80&fontColor=ffffff&fontSize=20&fontAlignY=65"/>
 </div>
