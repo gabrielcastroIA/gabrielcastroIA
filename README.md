@@ -18,37 +18,24 @@
 
 ## 🧠 Sobre mim
 
-```typescript
-class GabrielCastro implements FullStackDeveloper {
-  readonly name    = "Gabriel Castro";
-  readonly role    = "Full Stack Developer";
-  readonly exp     = "3+ anos de carreira";
-  readonly degree  = "Engenharia de Software (cursando)";
-  readonly located = "Brasil 🇧🇷";
+<div align="center">
 
-  stack = {
-    frontend : ["React", "TypeScript", "TailwindCSS", "Vite"],
-    backend  : ["Node.js", "Express", "Java (Spring Boot)", "Python (FastAPI)"],
-    databases: ["PostgreSQL", "MongoDB", "Redis"],
-    cloud    : ["AWS (EC2, S3, Lambda, RDS)", "Docker", "Kubernetes", "Terraform"],
-    tests    : ["Jest", "React Testing Library", "JUnit", "pytest"],
-    arch     : ["Clean Architecture", "REST APIs", "Microsserviços", "DDD básico"],
-    messaging: ["RabbitMQ", "Kafka (estudando)"],
-    ai       : ["LangChain", "OpenAI API", "Agentes autônomos", "RAG"],
-    tools    : ["n8n", "GitHub Actions", "CI/CD", "Postman", "Linux"],
-  };
+| | |
+|---|---|
+| 👨‍💻 **Cargo** | Full Stack Developer |
+| ⏱️ **Experiência** | 3+ anos de carreira |
+| 🎓 **Formação** | Engenharia de Software (cursando) |
+| 📍 **Localização** | Brasil 🇧🇷 |
+| 🚀 **Foco atual** | AWS Solutions Architect · Kubernetes CKA · Microsserviços |
+| 💡 **Interesses** | Arquitetura de software · Agentes de IA · DevOps · Open Source |
 
-  currentlyLearning = [
-    "AWS Solutions Architect Associate",
-    "Kubernetes avançado (CKA)",
-    "Arquitetura de microsserviços",
-  ];
+</div>
 
-  contact(): string {
-    return "github.com/gabrielcastroIA";
-  }
-}
-```
+<br/>
+
+> Desenvolvedor Full Stack com foco em construir sistemas escaláveis, bem testados e fáceis de manter.
+> Trabalho com React no front-end, Node.js/Java/Python no back-end e AWS + Kubernetes no deploy.
+> Apaixonado por automações inteligentes com n8n e agentes de IA com LangChain.
 
 ---
 
