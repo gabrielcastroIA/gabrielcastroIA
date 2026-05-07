@@ -22,7 +22,7 @@
 class GabrielCastro implements FullStackDeveloper {
   readonly name    = "Gabriel Castro";
   readonly role    = "Full Stack Developer";
-  readonly exp     = "2+ anos de carreira";
+  readonly exp     = "3+ anos de carreira";
   readonly degree  = "Engenharia de Software (cursando)";
   readonly located = "Brasil 🇧🇷";
 
